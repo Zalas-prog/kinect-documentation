@@ -1,4 +1,4 @@
-# Xbox One Kinect センサー
+# Xbox One Kinect センサー       #訂正版　2026/11/10
 
 ## 1. 概要
 Xbox One Kinect センサーは、Microsoftが開発したセンサーである。
